@@ -5,15 +5,14 @@ Hi. My name is Mohammad Nazari, currenctly working as a Software engineer and al
 - Experiend in Flutter, Node js, Python and ...
 - 📫 How to reach me: [mnzarym@gmail.com](mailto:mnzarym@gmail.com)
 
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <img height=150 
+       src="https://github-readme-stats.vercel.app/api?username=mnazarim&hide_rank=false&rank_icon=github&theme=dark" />
+  <img height=150 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=mnazarim&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</div>
 
-
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mnazarim&hide_rank=false&rank_icon=github" />
-   
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnazarim&layout=compact&langs_count=8&card_width=320" />
-
-
-  <div style="padding-bottom: 20px;"></div>
-
-  <img height=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sefeed&layout=compact" />
-
-
+<div style="text-align: center; margin-top: 20px;">
+  <img height=500 
+       src="https://github-readme-stats.vercel.app/api/wakatime?username=@sefeed&layout=compact&theme=dark" />
+</div>
