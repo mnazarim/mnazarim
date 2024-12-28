@@ -6,9 +6,18 @@ Hi. My name is Mohammad Nazari, currenctly working as a Software engineer and al
 - 📫 How to reach me: [mnzarym@gmail.com](mailto:mnzarym@gmail.com)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mnazarim" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mnazarim&hide_rank=false&show_icons=true&rank_icon=github" />
+
+
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnazarim&layout=compact&langs_count=8&card_width=320" />
-</a>
+
+
+
+
+  <
+
+
+  <img height=600 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sefeed&layout=compact" />
+
+
