@@ -5,7 +5,7 @@ Hi. My name is Mohammad Nazari, currenctly working as a Software engineer and al
 - Experiend in Flutter, Node js, Python and ...
 - 📫 How to reach me: [mnzarym@gmail.com](mailto:mnzarym@gmail.com)
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+<!-- <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
   <img height=150 
        src="https://github-readme-stats.vercel.app/api?username=mnazarim&hide_rank=false&rank_icon=github&theme=github_dark_dimmed" />
   <img height=150 
@@ -15,4 +15,4 @@ Hi. My name is Mohammad Nazari, currenctly working as a Software engineer and al
 <div style="text-align: center; margin-top: 20px;">
   <img height=500 
        src="https://github-readme-stats.vercel.app/api/wakatime?username=@sefeed&layout=compact&theme=github_dark_dimmed" />
-</div>
+</div> -->
